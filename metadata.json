@@ -1,0 +1,6 @@
+{
+  "name": "Online Banking Demo",
+  "description": "Local-development online banking demo with separate Customer and Admin portals, atomic ledger transactions, PDF statements, and security controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
